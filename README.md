@@ -6,6 +6,10 @@ A premium creative portfolio template built with vanilla HTML, CSS, and JavaScri
 
 ---
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Pages
 
 | Page | File | Description |
